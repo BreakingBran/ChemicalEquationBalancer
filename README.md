@@ -7,12 +7,12 @@ Dependincies:
 -Numpy
 -Standard Library
 
-So this chemical equation solver, allows you to put in almost any equation into it,
- unbalenced amd it will solve the equation for you.
+ This chemical equation solver allows you to put in ,almost, any equation into it in an
+ unbalenced form and it will solve the equation for you.
  
  Caution:
  - It has only been tested for equations seen up to grade 12, and will not understand
- nomenclature that deviates from formulas from university to higher.
+ nomenclature that deviates from formulas from university to higher level.
  
  TO DO:
  - add hydrate recognition
