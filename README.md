@@ -1,4 +1,4 @@
-# ChemicalEquationBalencer
+# ChemicalEquationBalancer
 @author: Lance Pereira
 @date: July 1, 2016
 @name: Chemical Equation Solver  (version: 0.1)
