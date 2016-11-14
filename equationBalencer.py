@@ -41,7 +41,7 @@ class Equation():
             compound = self.compoundList[compound]
             #print (compound)
             newElementsList = list(compound.ElementsDict.keys())
-            newElementsList = [x if x not in self.allElements else None for x in newElementsList]
+            newElementsList = [x for x in newElementsList if x not in self.allElements]
             self.allElements = self.allElements + newElementsList
         self.allElements.sort()
         #print (self.allElements)
